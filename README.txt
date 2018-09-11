@@ -1,6 +1,6 @@
-此处存放项目过程中的vr/ar文件，多为apk安卓系列文件，少量windows/.exe文件。
-项目文件太大，故下载请移步：https://pan.baidu.com/disk/home#list/vmode=grid&path=%2FVRARpro  
-ow.exe 是一个关于守望先锋的demo的简单尝试
-sanda.apk是一个识别三大校徽图片的AR视频播放的安卓软件，功能简易，只是识别功能。
-其余的是一些vr/ar项目的小尝试，有意愿可以下载看看，不过都是入门级别的尝试。
+主要分为两个项目：
+vrp:集合了vr全景图，与vr视频播放的功能
+sanda:主要是AR识别加视频播放，识别图片是三峡大学校徽，会在校徽上播放视频。
+apk没有登陆下载市场，且文件较大，下载请移步：链接: https://pan.baidu.com/s/1XznW_bhlAhHClXZfd7X_BA 密码: xvwq
+ow.exe 是一个关于守望先锋的简单demo。
 有疑问可以加发送邮件至：814526975@qq.com.
